@@ -1,0 +1,11 @@
+before installing bert search engine which can show upto 3 results
+install the following code using command line :-
+
+1. pip install transformers torch numpy scikit-learn
+2. pip install requests beautifulsoup4
+
+how to run 
+D:
+cd "D:\bert project"
+
+python search_engine.py
